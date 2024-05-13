@@ -1,7 +1,8 @@
 print("Hector: Hola!")
 print('"Simone: Ciao!')
-print("Pizza?")
-print("Quien paga?")
-print("Victor")
+print("Hector: Pizza?")
+print("Simone: Quien paga?")
+print("Hector: Victor")
 for i in range(4):
     print(f'tengo hambre {i} veces')
+print("erroFATAL")
